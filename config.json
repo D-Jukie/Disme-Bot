@@ -1,0 +1,44 @@
+{
+    "language": "vi",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": false,
+    "autoClean": true,
+    "adminOnly": false,
+    "encryptSt": true,
+    "UPTIME": 0,
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Bot Messenger",
+    "PREFIX": "?",
+    "ADMINBOT": [
+        "100004253741257"
+    ],
+    "APPSTATEPATH": "appstate.json",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "autoMarkDelivery": false,
+        "autoMarkRead": false,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.1.0",
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 500
+    },
+    "work": {
+        "cooldownTime": 1200000
+    }
+}
